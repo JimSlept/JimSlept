@@ -5,7 +5,7 @@
 <div align="center">
 <!-- <a href="https://discord.com/users/202740603790819328" > -->
   <a href="https://thicc-thighs.de/" >
-   <img src="https://lanyard.cnrad.dev/api/202740603790819328?idleMessage=Cause,%20baby,%20tonight%20we're%20beautiful%20now&animated=true&theme=dark&borderRadius=20&hideBadges=true&hideDiscrim=true&bg=212121"  />
+   <img src="https://lanyard.cnrad.dev/api/270403867202682880"  />
   </a>
     <br>
   <p>𝑔𝒾𝓇𝒾𝑔𝒾𝓇𝒾 𝒶𝒾</p>
@@ -24,21 +24,21 @@
 <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
   </div>
 <li>
- <b>Name:</b> Sarah</li>
+ <b>Name:</b> Jimmy</li>
 <li>
-<b>Fursona:</b> Snow Fox
+<b>Fursona:</b> Snow มารวย
 </li>
 <li>
-<b>Loves:</b> anime, osu, rhythm games
+<b>Loves:</b> anime, game
 </li>
 <li>
-<b>Gender:</b> she/her/Female 🏳️‍⚧️
+<b>Gender:</b> he/him/Male 🏳️‍⚧️
 </li>
 <li>
-<b>Git Server</b> https://git.thicc-thighs.de
+<b>Git Server</b> 
 </li>
 <li>
-<b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
+<b>Hobbys:</b> Game Development
 </li>
 <li>
 <b>Working @:</b> Intave Anticheat
@@ -67,7 +67,7 @@ Im also very good at writing Guides like my Yuzu Emulator Guide or writing this 
 <br>
 <p align="center">Hewe awe some of my <br>
 most used s-s-sociaw things >~< xoxox</p>
-<p align="center"><a href="https://twitter.com/PoolPartyAkali" target="_blank"><img src="https://img.shields.io/badge/PwoolPwatyAkwali%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.me/cozythighs" target="_blank"><img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+<p align="center"><a href="https://www.instagram.com/___jimym/" target="_blank"><img src="https://img.shields.io/badge/jimym%20-%23f40f1d?&style=for-the-badge&logo=Instagram&logoColor=white"/></a> <a href="https://discord.gg/QxZ3FQqT" target="_blank"><img src="https://img.shields.io/badge/Abyzz%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
 </div>
 <br>
 <div>
