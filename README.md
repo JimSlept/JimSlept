@@ -5,7 +5,7 @@
 <div align="center">
 <!-- <a href="https://discord.com/users/202740603790819328" > -->
   
-    <br>
+   
   <p>𝑔𝒾𝓇𝒾𝑔𝒾𝓇𝒾 𝒶𝒾</p>
   <p>𝒾𝓀𝑒𝓃𝒶𝒾 𝒷𝑜𝓇𝒹𝑒𝓇𝓁𝒾𝓃𝑒</p>
   <p>𝒩𝒶𝓃'𝒾 𝒹𝑜 𝒢 𝒹𝑒𝓂𝑜</p>
@@ -88,7 +88,7 @@ most used s-s-sociaw things >~< xoxox</p>
   </tr>
 </td>
   <tr>
-    <th rowspan="3"><br><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=xeff09&show_icons=true&locale=en&theme=dark&show_icons=true"></th>
+    <th rowspan="3"><br><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=JimSlept&show_icons=true&locale=en&theme=dark&show_icons=true"></th>
   </tr>
   <tr>
     <td align="center"><img width="100%" src="https://spotify-github-profile.vercel.app/api/view?uid=21naz3bxynvq33kljs6f3ytpy&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&bar_color_cover=true&bar_color=53b14f"></td>
@@ -98,5 +98,5 @@ most used s-s-sociaw things >~< xoxox</p>
       <img align="center" width="95%" src="https://spotify-recently-played-readme.vercel.app/api?user=21naz3bxynvq33kljs6f3ytpy&count=1" alt=""></img>
     </td>
   </tr>
-  <tr><th colspan="2"><img width="100%" src="https://media1.giphy.com/media/PFX8qCMjpF53bTjxLR/giphy.gif?cid=790b7611b6cb764415af623ed5d479a01edb08bc460ab7f3&rid=giphy.gif&ct=g"></th></tr>
+  <tr><th colspan="2"><img width="100%" src="https://media.tenor.com/Axh70e7PO7UAAAAC/wanderer-genshin.gif"></th></tr>
 </table>
